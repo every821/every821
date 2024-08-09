@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <a href="https://github.com/every821/convoychat">
+            <a href="#">
                 <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=every821&layout=donut-vertical&langs_count=20&card_width=320" />
             </a>
         </td>
