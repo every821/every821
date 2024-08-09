@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Blockchain%20developer;Senior%20Full-Stack%20developer;Over%2010%2B%20years%20of%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&font-weight: bold&width=440&height=45&color=b49c94&vCenter=true&size=26"/></a>
